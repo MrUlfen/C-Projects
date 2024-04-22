@@ -1,3 +1,5 @@
+# [1.5.2] - 2024-04-22
+
 ### Changed
 - 
 
@@ -9,7 +11,7 @@
 
 ### Added
 - Added interactive keybord inputs to the Password Generator. instead of typing 1,2,3,4 you can cliock 1 2 3 4 instead and hit enter
-- next update contains Password Strength indicator 
+- added Password Strength indicator 
 
 ### Changed
 - nothing changed
