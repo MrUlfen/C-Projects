@@ -1,3 +1,21 @@
+### Changed
+- 
+
+### Fixed
+- issues with the code nort working propperly.
+----------------------------------------------------------------------------------
+
+# [1.5] - 2024-04-22
+
+### Added
+- Added interactive keybord inputs to the Password Generator. instead of typing 1,2,3,4 you can cliock 1 2 3 4 instead and hit enter
+- next update contains Password Strength indicator 
+
+### Changed
+- nothing changed
+
+
+------------------------------------------------------------
 # [1.5.1] - 2024-04-22
 
 ### Added
